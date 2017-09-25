@@ -1,1 +1,1 @@
-# https-github.com-bizweekgraphics-screencapture-scripts
+Scripts to take and then process `screencapture` output
